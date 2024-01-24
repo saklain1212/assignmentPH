@@ -1,0 +1,49 @@
+html{
+    background-color:white !important;
+}
+.family{
+    font-family:'Manrope', sans-serif;
+}
+.card{
+    margin-bottom: 18px;
+}
+section.program .program1{
+    background-image: url("Images/2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius:8px;
+    
+}
+section.program .program2{
+    background-image: url("Images/3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius:8px;
+    
+}
+section.program .program3{
+    background-image: url("Images/4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius:8px;
+    
+}
+section.program .forBG{
+    border-radius: 16px;
+background: rgba(19, 19, 24, 0.50);
+width:100%;
+height:100%;
+}
+
+
+
+
+/* media query 530px */
+@media screen and (max-width: 530px) {
+    section.ourProducts{
+        height:2670px;
+    }
+  }
