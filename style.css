@@ -46,4 +46,8 @@ height:100%;
     section.ourProducts{
         height:2670px;
     }
+    section.progress{
+    background-color: white;
+    height:1190px;
+}
   }
